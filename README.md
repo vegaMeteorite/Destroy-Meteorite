@@ -1,8 +1,8 @@
-# Destroy-Meteorite
+# Earth-Defencer
 
-Technical support for "Destroy Meteorite"
+Technical support for "Earth Defencer"
 
-We will provide technical support for this app（Destroy Meteorite）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: vegaMeteorite@gmail.com
+We will provide technical support for this app（Earth Defencer）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: myearthdefencer@gmail.com
 
 Privacy Policy
 
