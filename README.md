@@ -1,8 +1,8 @@
-# Earth-Defencer
+# Picture Slider
 
-Technical support for "Earth Defencer"
+Technical support for "Picture Slider"
 
-We will provide technical support for this app（Earth Defencer）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: myearthdefencer@gmail.com
+We will provide technical support for this app（Picture Slider）, you can directly reply to the contact developer, you can also describe the problem clearly, contact email: hlpictureslider@gmail.com
 
 Privacy Policy
 
